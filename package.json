@@ -1,5 +1,5 @@
 {
-  "name": "dissonance",
+  "name": "@qntnt/dissonance",
   "version": "1.0.0",
   "description": "Plugin system for discord.js",
   "main": "lib/index.js",
