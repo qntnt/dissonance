@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@discordjs/rest": "^0.1.0-canary.0",
+    "@qntnt/ts-utils": "^1.0.0",
     "discord-api-types": "^0.22.0",
     "discord.js": "^13.1.0",
     "npmlog": "^5.0.0"

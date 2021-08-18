@@ -2,7 +2,7 @@ import { REST } from '@discordjs/rest';
 import { Routes } from 'discord-api-types/v9';
 import { ICommandPlugin } from './CommandPlugin';
 import L from './L';
-import { reverseRecord } from './utils/record';
+import { reverseRecord } from '@qntnt/ts-utils/lib/record';
 
 export interface OptionChoice {
   name: string

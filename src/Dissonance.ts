@@ -4,7 +4,7 @@ import Context, { RootContext } from "./Context"
 import CommandRegistrar from "./CommandRegistrar"
 import { Interaction } from "./Interaction"
 import L from "./L"
-import { delayedRetry, retry } from "./utils/promise"
+import { delayedRetry, retry } from "@qntnt/ts-utils/lib/promise"
 
 
 export type IntentsResolvable = BitFieldResolvable<IntentsString, number>
